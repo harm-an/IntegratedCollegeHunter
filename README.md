@@ -2,7 +2,7 @@
 #### An android + iOS application created in React Native for users to find the previous year branchwise cuttoffs of various Indian Engineering Colleges
 ## Screenshots
 
-<img src = "/Screenshots/1_Pixel.png" width=200><img src = "/Screenshots/2_Search.png" width=200>
+<img src = "/Screenshots/1_Pixel.png" width=200> . <img src = "/Screenshots/2_Search.png" width=200>
 
 <img src = "/Screenshots/3_Login.png" width=200>
 <img src = "/Screenshots/4_Profile.png" width=200>
